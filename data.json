@@ -1,0 +1,169 @@
+{
+  "profile": {
+    "ticker": "\"The test didn't work on you. You have to trust yourself.\"",
+    "paragraph1": "A recent graduate from Ashoka University with a four honors degree in Computer Science and Entrepreneurial Leadership with Research. With a strong foundation in data science, data analytics, and product management, his work focuses on developing building and scaling data layers and implement LLMs/AI/ML-integrated solutions.",
+    "paragraph2": "A Data Intern at DIME at the World Bank, where he contributed to Reproducibility Research Initiative. He is passionate about leveraging technology and data to drive positive social impact and contribute to the field of development economics.",
+    "email": "singhk0103@gmail.com",
+    "universityEmail": "kunal.singh_ug25@ashoka.edu.in",
+    "tacticalWeaponry": "Python, MySQL, PowerBI, Data Science, Data Analytics, Neo4j, LLMs, RAG, Hugging Face, GitHub, MS Excel, Product Management, Stakeholder Management,",
+    "operationalVerticals": "Data Architecture, Network Graph Analytics, Reproducible Economics, Product Management",
+    "linkedin": "https://www.linkedin.com/in/kunalsingh-au/"
+  },
+  "fieldPostings": [
+    {
+      "time": "Nov 2025 - May 2026",
+      "role": "Intern",
+      "org": "World Bank // DIME"
+    },
+    {
+      "time": "Jun 2025 - Sep 2025",
+      "role": "Engineering Intern",
+      "org": "Finternet Lab // Networks for Humanity"
+    },
+    {
+      "time": "Jun 2025- Jul 2025",
+      "role": "Project Intern",
+      "org": "New Zealand Cricket (via Education New Zealand)"
+    },
+    {
+      "time": "Oct 2024 - Dec 2024",
+      "role": "Student Advisor",
+      "org": "Lodha Genius Program - Mentorship Program"
+    },
+    {
+      "time": "Jun 2024 - Jul 2024",
+      "role": "Research & Data Analytics Extern",
+      "org": "Webacy (via Extern)"
+    }
+  ],
+  "blueprints": [
+    {
+      "id": "SCHEMATIC ID // 01",
+      "title": "Puchtach: Cross-Lingual Benchmark for LLMs",
+      "tag": "PYTHON // RAG // LLM EVALUATION",
+      "desc": "Developed 100 Hindi QA pairs and executed 7,200 benchmark experiments across open-source LLMs to evaluate factual accuracy on government information retrieval tasks.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 02",
+      "title": "Bias Detection in Book Reviews",
+      "tag": "LLM ARCHITECTURES // ENSEMBLE VOTING",
+      "desc": "Built a multi-dataset corpus of 44,000+ Goodreads reviews and engineered an ensemble voting machine framework to assess bias detection consistency.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 03",
+      "title": "Declining Private Investment in India",
+      "tag": "MACHINE LEARNING // FORECASTING",
+      "desc": "Investigated determinants of India's private investment slowdown by engineering autoregressive models achieving a 0.554 out-of-sample R² utilizing Random Forest techniques.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 04",
+      "title": "The Real Effects of Mobile Money",
+      "tag": "ECONOMETRIC MODELING // RDD // DID",
+      "desc": "Conducted a rigorous empirical review of Paytm's post-demonetization adoption velocity using structural regression discontinuity and difference-in-differences designs.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 05",
+      "title": "YouTube Feature Addition",
+      "tag": "PRODUCT MANAGEMENT // STRATEGY",
+      "desc": "Designed a comprehensive product roadmap, go-to-market strategies, and wireframe models for an interactive video learning tool guided by 56+ user surveys.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 06",
+      "title": "Graph-Based Analysis of Restaurant Businesses",
+      "tag": "NEO4J // GRAPH ANALYSIS // GDS",
+      "desc": "Designed and implemented a multi-tier Neo4j graph model analyzing Yelp's 52K+ corporate venues integrating ~7M nodes and link prediction pipelines.",
+      "githubLink": "https://github.com/",
+      "paperLink": "Project_Documentation.pdf"
+    },
+    {
+      "id": "SCHEMATIC ID // 07",
+      "title": "Queue Monitoring for Public Spaces",
+      "tag": "COMPUTER VISION // SIFT // FLANN",
+      "desc": "Designed a real-time crowd movement tracking system using traditional visual processing metrics, feature extraction, and background subtraction parameters.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    },
+    {
+      "id": "SCHEMATIC ID // 08",
+      "title": "Threat Model for Truecaller",
+      "tag": "CYBERSECURITY // PASTA FRAMEWORK",
+      "desc": "Conducted a technical privacy assessment extracting threat data vectors from Exodus Privacy Reports and engineered structural diagrams mapped via Mermaid Code.",
+      "githubLink": "https://github.com/",
+      "paperLink": "#"
+    }
+  ],
+  "academics": {
+    "degree": {
+      "title": "B.Sc (4 years Hons) in Computer Science & Entrepreneurial Leadership",
+      "institution": "Ashoka University",
+      "timeline": "2022 - 2026",
+      "metrics": "160 Credits Earned"
+    },
+    "courses": [
+      "Introduction to Critical Thinking",
+      "Environmental Studies",
+      "Indian Civilisations",
+      "Quantitative Reasoning and Mathematical Thinking",
+      "Introduction to Biology 1: Genetics and Evolution",
+      "Introduction to Computer Programming",
+      "Discrete Mathematics",
+      "Integrated Digital Marketing Strategy",
+      "Mind and Behaviour",
+      "Literature and the World",
+      "Acting Beyond the Stage",
+      "Data Structures",
+      "Computer Organization and Systems",
+      "Problem Solving using Microsoft Excel",
+      "Great Books",
+      "Principles of Science",
+      "Probability and Statistics",
+      "Finding your voice: Introduction to the Art of Singing",
+      "Design and Analysis of Algorithms",
+      "Economy, Politics and Society",
+      "Calculus",
+      "Symbolic Logic",
+      "Biostatistics and Bioinformatics",
+      "Computer Networks",
+      "Design Practices in CS",
+      "Introduction to Machine Learning",
+      "The New Geography of the Information Age",
+      "Computer Vision",
+      "Data Science and Management",
+      "Information Security",
+      "Law and Lawyerly Thinking: Introduction for Entrepreneurs",
+      "Technology and Product Management",
+      "Business Applications of Data Science",
+      "Linear Algebra",
+      "Senior Research Project",
+      "Indian Economy, Markets and Policy",
+      "Figure Drawing as Remembering and Reimagining",
+      "Senior Research Thesis",
+      "Technology Law and Policy: New Frontier for Business and Society",
+      "Storytelling in the Digital Age",
+      "A Physics Primer",
+      "Arts of our Times II - Media as Material of Practice"
+    ],
+    "assistantships": [
+      {
+        "time": "Jan 2026 - May 2026",
+        "course": "Teaching Assistant — Arts of Our Times II: Media as Material of Practice",
+        "institution": "Ashoka University (Visual Arts Department Department Cluster)"
+      },
+      {
+        "time": "May 2024 - Jun 2024",
+        "course": "Teaching Assistant / Math Tutor",
+        "institution": "Lodha Genius Program"
+      }
+    ]
+  }
+}
